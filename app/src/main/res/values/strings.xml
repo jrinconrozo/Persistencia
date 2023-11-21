@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Persistencia</string>
+
+    <string name="txt_mail">correo</string>
+    <string name="button">guardar</string>
+
+</resources>
